@@ -70,7 +70,7 @@
 
       moment.relativeTimeThreshold('s',60);
       moment.relativeTimeThreshold('m',60);
-      moment.relativeTimeThreshold('h',23);
+      moment.relativeTimeThreshold('h',24);
       moment.relativeTimeThreshold('dd',28);
       moment.relativeTimeThreshold('dm',45);
       moment.relativeTimeThreshold('dy',365);
