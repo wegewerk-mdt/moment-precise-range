@@ -2,7 +2,7 @@
     "name": "Moment Date Range Plugin",
     "version": "0.0.1",
     "description": "Moment.JS plugin, displays difference between two dates precisely",
-    "author": "mdt",
+    "author": "Rob Dawson",
     "license": "MIT",
     "homepage": "https://github.com/wegewerk-mdt/moment-precise-range",
     "main": "./readable-range.js",

@@ -1,4 +1,5 @@
-# Moment Date Range Plugin
+Moment Date Range Plugin
+========================
 
 This is a plugin for the momentjs Javascript Library.
 It adds a function to display the difference between 2 dates precisely.
@@ -7,7 +8,8 @@ It is a fork from http://codebox.org.uk/pages/moment-date-range-plugin
 
 I added locale Support and short notation support
 
-## Example
+Example
+-------
 
 <code language="javascript">
     a = moment("2013-02-08 09:30:26");
@@ -28,4 +30,12 @@ I added locale Support and short notation support
     # "3h 4min"
 </code>
 
-## Installation
+Installation
+------------
+
+`bower install git@github.com:wegewerk-mdt/moment-precise-range.git --save`
+
+```html
+<script src="bower_components/moment/moment.js"></script>
+<script src="bower_components/moment-precise-range/readable-range.js"></script>
+```
