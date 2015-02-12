@@ -1,0 +1,19 @@
+{
+    "name": "Moment Date Range Plugin",
+    "version": "0.0.1",
+    "description": "Moment.JS plugin, displays difference between two dates precisely",
+    "author": "mdt",
+    "license": "MIT",
+    "homepage": "https://github.com/wegewerk-mdt/moment-precise-range",
+    "main": "./readable-range.js",
+    "ignore": [
+    ],
+    "dependencies": {
+        "angular": ">=1.0.0",
+        "moment": ">=2.8.0 <2.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:wegewerk-mdt/moment-precise-range.git"
+    }
+}
