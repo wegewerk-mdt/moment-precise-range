@@ -1,5 +1,5 @@
 {
-    "name": "Moment Date Range Plugin",
+    "name": "moment-precise-range",
     "version": "0.0.1",
     "description": "Moment.JS plugin, displays difference between two dates precisely",
     "author": "Rob Dawson",
